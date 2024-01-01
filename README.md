@@ -26,7 +26,7 @@ typical class-sizes.
 - award
 
 ## Materials
-- Slideshow
+- [Presentation](presentation.pdf)
 - Poster
 
 <sup>[(Back to top)](#slate)</sup>
