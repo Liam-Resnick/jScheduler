@@ -23,8 +23,16 @@ solutions, and processed the results in a user-friendly format. When evaluated a
 typical class-sizes.
 
 ## Awards 
-- award
+- Kurumety Family Computer Science Award
+- First place at Pennsylvania Junior Academy of Science Regional Science Fair
+- First place at Pennsylvania Junior Academy of Science State Science Fair
+- First place at Montgomery Science Research Competition
 
 ## Materials
-- [Slides](presentation.pdf) presented at Pennsylvania Junior Academy of Science Regional Science Fair, Pennsylvania Junior Academy of Science State Science Fair, Montgomery Country Research Competition, and Deleware Valley Science Fair.
-<sup>[(Back to top)](#jScheduler)</
+[Slides](presentation.pdf) presented at:
+- Pennsylvania Junior Academy of Science Regional Science Fair
+- Pennsylvania Junior Academy of Science State Science Fair
+- Montgomery Country Research Competition
+- Deleware Valley Science Fair.
+  
+<sup>[(Back to top)](#jScheduler)</sup>
