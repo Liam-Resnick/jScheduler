@@ -29,7 +29,7 @@ typical class-sizes.
 - First place at Montgomery Science Research Competition
 
 ## Materials
-[Slides](presentation.pdf) presented at:
+[Slides](presentation.pdf) Presented in 2023 at:
 - Pennsylvania Junior Academy of Science Regional Science Fair
 - Pennsylvania Junior Academy of Science State Science Fair
 - Montgomery Country Research Competition
