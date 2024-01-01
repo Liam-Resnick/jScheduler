@@ -33,6 +33,6 @@ typical class-sizes.
 - Pennsylvania Junior Academy of Science Regional Science Fair
 - Pennsylvania Junior Academy of Science State Science Fair
 - Montgomery Country Research Competition
-- Deleware Valley Science Fair.
+- Deleware Valley Science Fair
   
 <sup>[(Back to top)](#jScheduler)</sup>
