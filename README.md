@@ -26,7 +26,5 @@ typical class-sizes.
 - award
 
 ## Materials
-- [Presentation](presentation.pdf)
-- Poster
-
-<sup>[(Back to top)](#slate)</sup>
+- [Slides](presentation.pdf) presented at Pennsylvania Junior Academy of Science Regional Science Fair, Pennsylvania Junior Academy of Science State Science Fair, Montgomery Country Research Competition, and Deleware Valley Science Fair.
+<sup>[(Back to top)](#jScheduler)</
